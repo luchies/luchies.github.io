@@ -1,0 +1,80 @@
+body div {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+
+}
+
+.person {
+	width: 150px;
+	height: 150px;
+	border-radius: 20%;
+	display: inline-block;
+	font-family: sans-serif, arial;
+	font-size: 3em;
+	text-align: center;
+	line-height: 150px;
+	border: 5px solid white;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+
+#carl:hover {
+	background-color: #0D36FF;
+	border: 3px solid #0D36FF;
+	color: white;
+}
+
+#carl{
+	background-color: white;
+	border: 3px solid #0D36FF;
+	color: #0D36FF;
+}
+
+
+
+#meg:hover {
+	background-color: #B2E80C;
+	border: 3px solid #B2E80C;
+	color: white;
+}
+
+#meg {
+	background-color: white;
+	border: 3px solid #B2E80C;
+	color: #B2E80C;
+}
+
+
+
+#adam:hover {
+	background-color: #FF0000;
+	border: 3px solid #FF0000;
+	color: white;
+}
+
+#adam {
+	background-color: white;
+	border: 3px solid #FF0000;
+	color: #FF0000;
+}
+
+
+
+#zach:hover {
+	background-color: #00C2E8;
+	border: 3px solid #00C2E8;
+	color: white;
+}
+
+#zach {
+	background-color: white;
+	border: 3px solid #00C2E8;
+	color: #00C2E8;
+}
+
+a {
+	text-decoration: none;
+}
